@@ -1,6 +1,3 @@
-/* 23/CS/283
-NIKITA KUMARI */
-
 #include <stdio.h>
 
 void next_gr(int arr[], int n) {
