@@ -1,6 +1,3 @@
-/* 23/CS/283
-NIKITA KUMARI */
-
 #include <stdio.h>
 
 int binary_search(int arr[], int num, int left, int right)
